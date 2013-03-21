@@ -1,5 +1,5 @@
-Querying JSON Terms
--------------------
+JSONQ - Erlang JSON query library
+---------------------------------
 
 JSON:
 
