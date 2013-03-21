@@ -1,0 +1,7 @@
+{application, jsonq,
+ [{description, "JSONQ"},
+  {vsn, "0.0.1"},
+  {modules, [jsonq]},
+  {registered, []},
+  {applications, [stdlib]},
+  {env, []}]}.
