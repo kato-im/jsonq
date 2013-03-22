@@ -1,5 +1,5 @@
 {application, jsonq,
- [{description, "JSONQ"},
+ [{description, "JSONQ - JSON query utility"},
   {vsn, "0.0.1"},
   {modules, [jsonq]},
   {registered, []},
